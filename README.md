@@ -13,11 +13,11 @@ Incoming CS/IT student, building my foundation in Data Structures & Algorithms b
 
 ---
 
-### 🔭 What I'm doing right now
-- Working through DSA in Python — hashmaps done ✅, currently on **recursion and trees**
-- 📈 **37+ LeetCode problems** solved, targeting **120** before Year 1
-- 🏆 Getting started with **competitive programming** on Codeforces
-- 🎯 Long-term goal: land a role at a top product company through strong fundamentals, real projects, and consistent practice — the off-campus route
+### 🔭 What I'm doing
+- Working through core DSA patterns in Python — arrays, hashmaps, recursion, trees, and beyond
+- Solving problems on LeetCode consistently, with a goal of 120+ before college starts
+- Getting into competitive programming on Codeforces
+- Building toward a strong off-campus profile — fundamentals, real projects, consistent practice
 
 ### 🛠️ Projects
 | Project | Description |
@@ -34,5 +34,3 @@ Football and playing musical instruments — both taught me the same thing codin
   <img src="https://github-readme-stats.vercel.app/api?username=shawnmcconnell0801&show_icons=true&theme=dark&hide_title=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnmcconnell0801&theme=dark" height="150"/>
 </p>
-
-<p align="center"><i>Currently learning: Recursion → Trees → Backtracking → Graphs, one pattern at a time.</i></p>
