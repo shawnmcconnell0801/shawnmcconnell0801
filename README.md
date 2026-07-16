@@ -30,7 +30,3 @@ Football and playing musical instruments — both taught me the same thing codin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawnmcconnell0801&show_icons=true&theme=dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnmcconnell0801&theme=dark" height="150"/>
-</p>
